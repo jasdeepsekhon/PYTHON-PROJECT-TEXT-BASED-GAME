@@ -38,10 +38,11 @@ by becoming strong enough through collecting items and sharpening your weapons.Y
 **GAME CONTROLS**
 ![image](https://user-images.githubusercontent.com/20189314/174436180-d59e079f-311b-451e-acfc-ac5f2e6fc853.png)
 
+![image](https://user-images.githubusercontent.com/20189314/174437518-3c810c9f-6850-49cb-a33f-703721f54bae.png)
 
 
 https://user-images.githubusercontent.com/20189314/173930838-34be8ba9-70f9-43d8-92a6-77e4a0aa5663.mp4
 
 
-![image](https://user-images.githubusercontent.com/20189314/174436256-f1213e36-859a-424e-aba9-b11530dbaeef.png)
+
 
