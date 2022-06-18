@@ -43,4 +43,5 @@ by becoming strong enough through collecting items and sharpening your weapons.Y
 https://user-images.githubusercontent.com/20189314/173930838-34be8ba9-70f9-43d8-92a6-77e4a0aa5663.mp4
 
 
+![image](https://user-images.githubusercontent.com/20189314/174436256-f1213e36-859a-424e-aba9-b11530dbaeef.png)
 
