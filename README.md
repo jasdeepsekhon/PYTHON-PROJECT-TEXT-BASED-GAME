@@ -1,5 +1,6 @@
 # PYTHON-PROJECT-TEXT-BASED-GAME CPS406 PROJECT
 
+CODE IN MASTER BRANCH
 WELCOME TO THE WORLD OF MAGIC WHERE WE HAVE CHARACTERS FROM HARRYPOTTER,Abilities like Pokemon and gameplay like no other.The goal of this urban legend is to defeat Voldemort
 by becoming strong enough through collecting items and sharpening your weapons.You are the wizard chosen to defeat all evil and save this possessed,cursed world from the wraith of this evil.
 ![HARRYPOTTERGAME (1)](https://user-images.githubusercontent.com/20189314/173197699-bbab62d6-bf9a-4b9a-a9d3-0a04175a8262.jpg)
